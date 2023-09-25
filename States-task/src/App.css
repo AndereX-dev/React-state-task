@@ -33,14 +33,17 @@
 .inc {
   background-color: green;
   color: white;
+  margin-left: 5px;
 }
 
 .dec {
   background-color: red;
   color: white;
+  margin-left: 5px;
 }
 
 .res {
   background-color: blue;
   color: white;
+  margin-left: 5px;
 }
